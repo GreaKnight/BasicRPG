@@ -1,7 +1,7 @@
 # BasicRPG
 Basic RPG game learning some ruby scripting
-Playable exe
-Skills done
+Playable exe/n
+Skills done/n
 Equipment Done
 Characters done
 Next world map and dungeons
